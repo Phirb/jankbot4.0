@@ -135,4 +135,4 @@ function helpCommand(arguments, receivedMessage) {
 
 
 //Bot Token goes here.
-client.login("NTEwOTc1MTc5ODg3NzM4ODgx.Dskf-g.LwKo2ZuKM7B1ult-Cia9GoVFUy4") 
+client.login("") 
